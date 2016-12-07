@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Neutron">
+    <output-path>D:/UserData/Vincent/Server/NTAC Debug/plugins</output-path>
+    <root id="archive" name="Neutron.jar">
+      <element id="module-output" name="Neutron" />
+    </root>
+  </artifact>
+</component>

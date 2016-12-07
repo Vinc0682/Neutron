@@ -1,0 +1,17 @@
+name: Neutron
+prefix: Neutron
+main: net.newtownia.Neutron.Neutron
+version: '0.1-b0'
+depend: [NTApi, ProtocolLib]
+author: VincBreaker
+
+commands:
+  neutron:
+    description: 'Use neutron'
+    usage: '/neutron'
+
+permissions:
+  neutron.train:
+    default: OP
+  neutron.check:
+    default: OP

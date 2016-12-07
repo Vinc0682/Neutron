@@ -1,0 +1,19 @@
+Prefix: '&7<< &c&lNeutron&7 <<&f '
+
+No-Permission: '&cYou dont have the permission to do this!'
+Player-Not-Found: "&cDidn't find player %s!"
+Incorrect-Time: "&c%1s ist not a time!"
+
+Version: '&cVersion %s &7|&c Artifical combat pattern detection!'
+
+Training-Started: '&aTraining started - Have a good fight!'
+Training-Started-Other: '&aTraining started for %1s - Hope for a good fight!'
+Training-Finished: '&aTraining finished! - New Pattern: %1s'
+Training-Finished-Other: '&aTraining of %1s finished! - New Pattern: %2s'
+
+Checking-Started: '&aChecking started - Have a good fight!'
+Checking-Started-Other: '&aChecking started for %1s - Hope for a good fight!'
+Checking-Finished: '&aChecking finished! - Detected: %1s'
+Checking-Finished-Other: '&aChecking of %1s finished! - Detectedt: %2s'
+
+Already-Logging: '&c%1s is already training or being checked!'
